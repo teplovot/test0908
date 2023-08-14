@@ -1,0 +1,9 @@
+* {
+    color: rgb(89, 0, 255);
+list-style: none;
+padding: 0;
+}
+
+ol  li  p {
+    color: red;
+}
